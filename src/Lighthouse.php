@@ -1,8 +1,8 @@
 <?php
 
-namespace Dzava\Lighthouse;
+namespace Rocketeers\Lighthouse;
 
-use Dzava\Lighthouse\Exceptions\AuditFailedException;
+use Rocketeers\Lighthouse\Exceptions\AuditFailedException;
 use Symfony\Component\Process\Process;
 
 class Lighthouse
