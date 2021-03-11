@@ -1,6 +1,6 @@
 <?php
 
-namespace Dzava\Lighthouse\Exceptions;
+namespace Rocketeers\Lighthouse\Exceptions;
 
 class AuditFailedException extends \Exception
 {
